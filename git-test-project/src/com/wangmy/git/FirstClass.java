@@ -14,5 +14,7 @@ public class FirstClass {
         System.out.println("hello project");
         System.out.println("hello project");
         System.out.println("hello project");
+
+        System.out.println("haha");
     }
 }
